@@ -34,3 +34,5 @@ Obs.: Cuidado com o repositorio remoto e --hard
 git push 
 
 --usando um repositorio remoto.
+
+Obs.: Cuidado com o brand ( no meu caso foi chamado de main)
