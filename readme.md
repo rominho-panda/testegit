@@ -18,9 +18,15 @@ Comandos Git
 -git diff
 --name-only : arquivos alterados.
 
+git checkout
+
+ -- volta os arquivos para a situação de edicao!
+
 git reset 
+ -- volta commit e arquivo em stage
 
  -- soft: volta para ser commitado novamente
  -- mixed: volta para ser adicionado novamente.
  -- hard: Elimina a hash toda, voltando para o estado apontando.
 
+Obs.: Cuidado com o repositorio remoto e --hard
