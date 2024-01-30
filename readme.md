@@ -17,3 +17,10 @@ Comandos Git
 -git show
 -git diff
 --name-only : arquivos alterados.
+
+git reset 
+
+ -- soft: volta para ser commitado novamente
+ -- mixed: volta para ser adicionado novamente.
+ -- hard: Elimina a hash toda, voltando para o estado apontando.
+
