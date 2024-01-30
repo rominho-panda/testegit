@@ -30,3 +30,7 @@ git reset
  -- hard: Elimina a hash toda, voltando para o estado apontando.
 
 Obs.: Cuidado com o repositorio remoto e --hard
+
+git push 
+
+--usando um repositorio remoto.
