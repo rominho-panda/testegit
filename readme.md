@@ -14,4 +14,6 @@ Comandos Git
 
 -git shortlog
 -git graph	
-	
+-git show
+-git diff
+--name-only : arquivos alterados.
